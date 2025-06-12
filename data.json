@@ -1,0 +1,4520 @@
+{
+    "ACCT130": {
+        "course_name_ar": "المحاسبة المالية 1",
+        "course_name_en": "FINANCIAL ACCOUNTING 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Karim Sani Nasib Al-Bitar",
+                "capacity": "4",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "A.Shaheen150"
+            }
+        ]
+    },
+    "ACCT230": {
+        "course_name_ar": "المحاسبة المالية 2",
+        "course_name_en": "FINANCIAL ACCOUNTING 2",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Karim Sani Nasib Al-Bitar",
+                "capacity": "21",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "A.Shaheen150"
+            }
+        ]
+    },
+    "ACCT331": {
+        "course_name_ar": "محاسبة التكاليف",
+        "course_name_en": "COST ACCOUNTING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Huthayfa N. I. Jabari",
+                "capacity": "69",
+                "days": "S, M, T, W, R",
+                "time": "14:00 - 15:50",
+                "location": "O.Abdulhadi052"
+            }
+        ]
+    },
+    "ACCT332": {
+        "course_name_ar": "مبادىء الضريبة",
+        "course_name_en": "PRINCIPLES OF TAXATION",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Jamal Fadel Daoud Fawadleh",
+                "capacity": "29",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "O.Abdulhadi151"
+            }
+        ]
+    },
+    "ACCT3331": {
+        "course_name_ar": "المحاسبة الإدارية لطلبة العلوم المالية والمصرفية",
+        "course_name_en": "MANAGERIAL ACCOUNTING FOR FINANCE STUDENTS",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Huthayfa N. I. Jabari",
+                "capacity": "23",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "O.Abdulhadi152"
+            }
+        ]
+    },
+    "ACCT334": {
+        "course_name_ar": "محاسبة المنشآت المالية",
+        "course_name_en": "ACCOUNTING OF FINANCIAL INSTITUTIONS",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Zeyad Fawaz Fouzi Munawer",
+                "capacity": "52",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "O.Abdulhadi154"
+            }
+        ]
+    },
+    "ACCT335": {
+        "course_name_ar": "المحاسبة المتوسطة 1",
+        "course_name_en": "INTERMEDIATE ACCOUNTING 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Zeyad Fawaz Fouzi Munawer",
+                "capacity": "7",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "O.Abdulhadi154"
+            }
+        ]
+    },
+    "ARAB135": {
+        "course_name_ar": "مهارات اللغة العربية 1",
+        "course_name_en": "ARABIC LANGUAGE SKILLS 1",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Nasralla Mohammad Ahmad Alshaier",
+                "capacity": "3",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "ALSADIK409"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Khamees Ahmed Mohammad Rayyan",
+                "capacity": "3",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:50",
+                "location": "Bamieh206"
+            }
+        ]
+    },
+    "ARAB136": {
+        "course_name_ar": "مهارات اللغة العربية 2",
+        "course_name_en": "ARABIC LANGUAGE SKILLS 2",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Thabit Muhammad Khalil Hamed",
+                "capacity": "3",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "PNH103"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Ali Hasan Ali Khawaja",
+                "capacity": "2",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "N/A"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "3",
+                "instructor": "Thabit Muhammad Khalil Hamed",
+                "capacity": "0",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:50",
+                "location": "PNH201"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "4",
+                "instructor": "Samir Mohammad Nimer Mouqada",
+                "capacity": "26",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "PNH203"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "5",
+                "instructor": "Samir Mohammad Nimer Mouqada",
+                "capacity": "3",
+                "days": "S, M, T, W, R",
+                "time": "14:00 - 15:50",
+                "location": "N/A"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "6",
+                "instructor": "Ali Hasan Ali Khawaja",
+                "capacity": "2",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:50",
+                "location": "Bahrain220"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "7",
+                "instructor": "Mohammad H. M. Samhan",
+                "capacity": "1",
+                "days": "S, M, T, W, R",
+                "time": "13:00 - 14:50",
+                "location": "A.Shaheen202"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "8",
+                "instructor": "Mohammad H. M. Samhan",
+                "capacity": "1",
+                "days": "S, M, T, W, R",
+                "time": "15:00 - 16:50",
+                "location": "A.Shaheen202"
+            }
+        ]
+    },
+    "ARAB2320": {
+        "course_name_ar": "مدخل إلى علم اللغة العربية",
+        "course_name_en": "INTRODUCTION TO ARABIC LINGUISTICS",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Nasralla Mohammad Ahmad Alshaier",
+                "capacity": "1",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:50",
+                "location": "ALSADIK409"
+            }
+        ]
+    },
+    "ARAB2390": {
+        "course_name_ar": "العروض والقافية",
+        "course_name_en": "PROSODY AND RHYME",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "0",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:50",
+                "location": "Masri110"
+            }
+        ]
+    },
+    "ARAB331": {
+        "course_name_ar": "الدراسات القرانية",
+        "course_name_en": "QUR'ANIC STUDIES",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mashhour Mousa Mashhour Mshahreh",
+                "capacity": "5",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "PNH301"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Mashhour Mousa Mashhour Mshahreh",
+                "capacity": "9",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:50",
+                "location": "PNH301"
+            }
+        ]
+    },
+    "ARCH367": {
+        "course_name_ar": "الآثار في الميدان (لطلبة التخصص الفرعي)",
+        "course_name_en": "FIELD ARCHAEOLOGY (FOR MINOR STUDENTS ONLY)",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Hamed Joma'A Mohammad Salem",
+                "capacity": "1",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "ARSK131": {
+        "course_name_ar": "اللغة العربية الفصحى 1",
+        "course_name_en": "MODERN STANDARD ARABIC 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Sami Ehmedan Rasheed Sha\"Th",
+                "capacity": "0",
+                "days": "M, T, W, R",
+                "time": "11:00 - 13:50",
+                "location": "Bahrain201"
+            }
+        ]
+    },
+    "ARSK132": {
+        "course_name_ar": "اللغة العربية الفصحى 2",
+        "course_name_en": "MODERN STANDARD ARABIC 2",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Samer Abdelrahim Mohammed Qot",
+                "capacity": "0",
+                "days": "M, T, W, R",
+                "time": "16:00 - 18:50",
+                "location": "N/A"
+            }
+        ]
+    },
+    "ARSK133": {
+        "course_name_ar": "اللهجة الفلسطينية 1",
+        "course_name_en": "COLLOQUIAL ARABIC 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Sami Ehmedan Rasheed Sha\"Th",
+                "capacity": "0",
+                "days": "M, T, W, R",
+                "time": "08:00 - 10:50",
+                "location": "Bahrain201"
+            }
+        ]
+    },
+    "ARSK134": {
+        "course_name_ar": "اللهجة الفلسطينية 2",
+        "course_name_en": "COLLOQUIAL ARABIC 2",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Hanada Mahmoud Ahmad Kharama",
+                "capacity": "0",
+                "days": "M, T, W, R",
+                "time": "16:00 - 18:50",
+                "location": "N/A"
+            }
+        ]
+    },
+    "ARSK231": {
+        "course_name_ar": "اللغة العربية الفصحى 3",
+        "course_name_en": "MODERN STANDARD ARABIC 3",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "0",
+                "days": "M, T, W, R",
+                "time": "16:00 - 18:50",
+                "location": "N/A"
+            }
+        ]
+    },
+    "ARSK233": {
+        "course_name_ar": "العامية الفلسطينية المستوى الثالث",
+        "course_name_en": "COLLOQUIAL ARABIC 3",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "0",
+                "days": "M, T, W, R",
+                "time": "16:00 - 18:50",
+                "location": "N/A"
+            }
+        ]
+    },
+    "BIOC331": {
+        "course_name_ar": "الكيمياء الحيوية 1",
+        "course_name_en": "BIOCHEMISTRY 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Abdallah Taha Suleiman Abu Taha",
+                "capacity": "5",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "SCI113"
+            }
+        ]
+    },
+    "BIOL111": {
+        "course_name_ar": "مختبر الأحياء العامة",
+        "course_name_en": "GENERAL BIOLOGY LAB",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mahmoud Abdul-Rahman Husein Srour",
+                "capacity": "7",
+                "days": "M, T, W",
+                "time": "11:00 - 13:50",
+                "location": "SCI160"
+            }
+        ]
+    },
+    "BIOL131": {
+        "course_name_ar": "الأحياء العامة 1",
+        "course_name_en": "GENERAL BIOLOGY 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mahmoud Abdul-Rahman Husein Srour",
+                "capacity": "3",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "A.Shaheen152"
+            }
+        ]
+    },
+    "BIOL243": {
+        "course_name_ar": "علم الأحياء الدقيقة",
+        "course_name_en": "GENERAL MICROBIOLOGY",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "4",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "SCI116"
+            },
+            {
+                "section_type": "Lab",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "4",
+                "days": "M, T, W",
+                "time": "11:00 - 13:50",
+                "location": "SCI161"
+            }
+        ]
+    },
+    "BUSA130": {
+        "course_name_ar": "مقدمة في إدارة الاعمال",
+        "course_name_en": "INTRODUCTION TO BUSINESS ADMINISTRATION",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Rania Yaser Qostande Jaber",
+                "capacity": "4",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "O.Abdulhadi051"
+            }
+        ]
+    },
+    "BUSA230": {
+        "course_name_ar": "مبادىء إدارة الأعمال",
+        "course_name_en": "PRINCIPLES OF MANAGEMENT",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Maisa Yacoub Naoum Burbar",
+                "capacity": "44",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "Al-Juraysi001"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Maisa Yacoub Naoum Burbar",
+                "capacity": "21",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "Al-Juraysi001"
+            }
+        ]
+    },
+    "BUSA238": {
+        "course_name_ar": "مقدمة في نظم المعلومات الادارية",
+        "course_name_en": "INTRODUCTION TO MANAGEMENT INFORMATION SYSTEMS",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohand M. B. Tuffaha",
+                "capacity": "15",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "Al-Juraysi225"
+            }
+        ]
+    },
+    "BUSA333": {
+        "course_name_ar": "السلوك التنظيمي",
+        "course_name_en": "ORGANIZATIONAL BEHAVIOR",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mira Taysir Ibrahim El-Far",
+                "capacity": "14",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "Al-Juraysi225"
+            }
+        ]
+    },
+    "BUSA336": {
+        "course_name_ar": "إدارة المشاريع",
+        "course_name_en": "PROJECT MANAGEMENT",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohand M. B. Tuffaha",
+                "capacity": "8",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "Al-Juraysi227"
+            }
+        ]
+    },
+    "BUSA3371": {
+        "course_name_ar": "إدارة الانتاج 1",
+        "course_name_en": "PRODUCTION MANAGEMENT 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Samir Daoud Khalil Baidoun",
+                "capacity": "4",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "Al-Juraysi325"
+            }
+        ]
+    },
+    "BUSA436": {
+        "course_name_ar": "الإدارة الاستراتيجية",
+        "course_name_en": "STRATEGIC MANAGEMENT",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Rania Yaser Qostande Jaber",
+                "capacity": "36",
+                "days": "S, M, T, W, R",
+                "time": "14:00 - 15:50",
+                "location": "Al-Juraysi325"
+            }
+        ]
+    },
+    "BUSA638": {
+        "course_name_ar": "إدارة الموارد البشرية",
+        "course_name_en": "HUMAN RESOURCE MANAGEMENT",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Tareq Mohammad Tallat Abdulfatah Ashour",
+                "capacity": "2",
+                "days": "S, T, R",
+                "time": "15:00 - 17:50",
+                "location": "Al-Juraysi322"
+            }
+        ]
+    },
+    "BUSA639": {
+        "course_name_ar": "إدارة العمليات",
+        "course_name_en": "OPERATIONS MANAGEMENT",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Samir Daoud Khalil Baidoun",
+                "capacity": "1",
+                "days": "S, M, W",
+                "time": "15:00 - 17:50",
+                "location": "Al-Juraysi222"
+            }
+        ]
+    },
+    "BUSA7395": {
+        "course_name_ar": "إدارة المشاريع",
+        "course_name_en": "PROJECT MANAGEMENT",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Suhail Sami Sadeq Sultan",
+                "capacity": "2",
+                "days": "S, M, W",
+                "time": "12:00 - 14:50",
+                "location": "Al-Juraysi322"
+            }
+        ]
+    },
+    "BUSA831": {
+        "course_name_ar": "حلقة بحث 2",
+        "course_name_en": "SEMINAR 2",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Samir Daoud Khalil Baidoun",
+                "capacity": "1",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "CHEM112": {
+        "course_name_ar": "مختبر الكيمياء العامة 2",
+        "course_name_en": "GENERAL CHEMISTRY LAB 2",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Hijazi Issa Hussein Abu Ali",
+                "capacity": "2",
+                "days": "M, T, W",
+                "time": "11:00 - 13:50",
+                "location": "SCI361"
+            }
+        ]
+    },
+    "CHEM132": {
+        "course_name_ar": "الكيمياء العامة 2",
+        "course_name_en": "GENERAL CHEMISTRY 2",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Hijazi Issa Hussein Abu Ali",
+                "capacity": "4",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "SCI213"
+            }
+        ]
+    },
+    "CHEM143": {
+        "course_name_ar": "الكيمياء لطلبة كلية الهندسة",
+        "course_name_en": "CHEMISTRY FOR ENGINEERING STUDENTS",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohammed H. M. Aljabari",
+                "capacity": "18",
+                "days": "S, M, T, W, R",
+                "time": "14:00 - 15:20",
+                "location": "S.Abdulhadi380"
+            },
+            {
+                "section_type": "Discussion",
+                "section_number": "1",
+                "instructor": "Mohammed H. M. Aljabari",
+                "capacity": "15",
+                "days": "M, T, W, R",
+                "time": "10:00 - 10:50",
+                "location": "SCI114"
+            },
+            {
+                "section_type": "Discussion",
+                "section_number": "2",
+                "instructor": "Diab T. D. Qadah",
+                "capacity": "3",
+                "days": "M, T, W, R",
+                "time": "11:00 - 11:50",
+                "location": "SCI114"
+            },
+            {
+                "section_type": "Lab",
+                "section_number": "1",
+                "instructor": "Mohammed H. M. Aljabari",
+                "capacity": "15",
+                "days": "M, T, W",
+                "time": "11:00 - 13:50",
+                "location": "SCI003"
+            },
+            {
+                "section_type": "Lab",
+                "section_number": "2",
+                "instructor": "Diab T. D. Qadah",
+                "capacity": "3",
+                "days": "M, T, W",
+                "time": "08:00 - 10:50",
+                "location": "SCI003"
+            }
+        ]
+    },
+    "CHEM221": {
+        "course_name_ar": "مختبر الكيمياء العضوية",
+        "course_name_en": "ORGANIC CHEMISTRY LAB",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Adi Abdul Latif Yousef Qamhieh",
+                "capacity": "10",
+                "days": "M, T, W, R",
+                "time": "12:00 - 12:50",
+                "location": "S.Abdulhadi380"
+            },
+            {
+                "section_type": "Lab",
+                "section_number": "1",
+                "instructor": "Adi Abdul Latif Yousef Qamhieh",
+                "capacity": "7",
+                "days": "M, T, W",
+                "time": "14:00 - 16:50",
+                "location": "SCI355"
+            },
+            {
+                "section_type": "Lab",
+                "section_number": "2",
+                "instructor": "Adi Abdul Latif Yousef Qamhieh",
+                "capacity": "3",
+                "days": "M, T, W",
+                "time": "08:00 - 10:50",
+                "location": "SCI355"
+            }
+        ]
+    },
+    "CHEM234": {
+        "course_name_ar": "الكيمياء التحليلية 1",
+        "course_name_en": "ANALYTICAL CHEMISTRY 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Saleh Mohammad Sulaiman Sulaiman",
+                "capacity": "36",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:20",
+                "location": "Aggad221"
+            },
+            {
+                "section_type": "Lab",
+                "section_number": "1",
+                "instructor": "Diab T. D. Qadah",
+                "capacity": "18",
+                "days": "M, T, W",
+                "time": "13:00 - 16:50",
+                "location": "SCI358"
+            },
+            {
+                "section_type": "Lab",
+                "section_number": "2",
+                "instructor": "Saleh Mohammad Sulaiman Sulaiman",
+                "capacity": "18",
+                "days": "M, T, W",
+                "time": "13:00 - 16:50",
+                "location": "SCI357"
+            }
+        ]
+    },
+    "CHEM4120": {
+        "course_name_ar": "تدريب الكيمياء الصناعية 1",
+        "course_name_en": "INDUSTRIAL CHEMISTRY TRAINING 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Saleh Mohammad Sulaiman Sulaiman",
+                "capacity": "3",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "CHEM4130": {
+        "course_name_ar": "تدريب الكيمياء الصناعية 2",
+        "course_name_en": "INDUSTRIAL CHEMISTRY TRAINING 2",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Saleh Mohammad Sulaiman Sulaiman",
+                "capacity": "2",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "COMM4312": {
+        "course_name_ar": "صحافة الهاتف المحمول",
+        "course_name_en": "MOBILE JOURNALISM",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Saleh Badawi Audeh Allah Masharqeh",
+                "capacity": "1",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:20",
+                "location": "Masrouji016"
+            },
+            {
+                "section_type": "Lab",
+                "section_number": "1",
+                "instructor": "Saleh Badawi Audeh Allah Masharqeh",
+                "capacity": "1",
+                "days": "M, T, W",
+                "time": "14:00 - 16:50",
+                "location": "Masrouji014"
+            }
+        ]
+    },
+    "COMP132": {
+        "course_name_ar": "مقدمة في الحاسوب والبرمجة",
+        "course_name_en": "INTRODUCTION TO COMPUTER AND PROGRAMMING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohammed A. A. Husseinali",
+                "capacity": "6",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:20",
+                "location": "Masri304"
+            },
+            {
+                "section_type": "Lab",
+                "section_number": "1",
+                "instructor": "Mohammed A. A. Husseinali",
+                "capacity": "4",
+                "days": "M, T, W",
+                "time": "08:00 - 10:50",
+                "location": "Masri305"
+            },
+            {
+                "section_type": "Lab",
+                "section_number": "2",
+                "instructor": "Mohammed A. A. Husseinali",
+                "capacity": "2",
+                "days": "M, T, W",
+                "time": "14:00 - 16:50",
+                "location": "Masri305"
+            }
+        ]
+    },
+    "COMP133": {
+        "course_name_ar": "الحاسوب والبرمجة",
+        "course_name_en": "COMPUTER AND PROGRAMMING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Samer Mas'Oud Ahmad Zein",
+                "capacity": "22",
+                "days": "S, M, T, W, R",
+                "time": "09:30 - 10:50",
+                "location": "Masri404"
+            },
+            {
+                "section_type": "Lab",
+                "section_number": "1",
+                "instructor": "Samer Mas'Oud Ahmad Zein",
+                "capacity": "15",
+                "days": "M, T, W",
+                "time": "11:00 - 13:50",
+                "location": "Masri403"
+            },
+            {
+                "section_type": "Lab",
+                "section_number": "2",
+                "instructor": "Samer Mas'Oud Ahmad Zein",
+                "capacity": "7",
+                "days": "M, T, W",
+                "time": "14:00 - 16:50",
+                "location": "Masri403"
+            }
+        ]
+    },
+    "COMP1331": {
+        "course_name_ar": "الحاسوب والبرمجة",
+        "course_name_en": "COMPUTER AND PROGRAMMING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Faisal Reyad Abd Allah Shehadeh",
+                "capacity": "3",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:20",
+                "location": "Masri108"
+            },
+            {
+                "section_type": "Lab",
+                "section_number": "1",
+                "instructor": "Faisal Reyad Abd Allah Shehadeh",
+                "capacity": "3",
+                "days": "M, T, W",
+                "time": "08:00 - 10:50",
+                "location": "Masri507"
+            },
+            {
+                "section_type": "Lab",
+                "section_number": "2",
+                "instructor": "Faisal Reyad Abd Allah Shehadeh",
+                "capacity": "0",
+                "days": "M, T, W",
+                "time": "14:00 - 16:50",
+                "location": "Masri507"
+            }
+        ]
+    },
+    "COMP2310": {
+        "course_name_ar": "البرمجة الشيئية",
+        "course_name_en": "OBJECT-ORIENTED PROGRAMMING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Karmel F. M. Shehadeh",
+                "capacity": "4",
+                "days": "S, M, T, W, R",
+                "time": "14:00 - 15:20",
+                "location": "Masri202"
+            },
+            {
+                "section_type": "Lab",
+                "section_number": "1",
+                "instructor": "Karmel F. M. Shehadeh",
+                "capacity": "4",
+                "days": "M, T, W",
+                "time": "08:00 - 10:50",
+                "location": "Masri405"
+            }
+        ]
+    },
+    "COMP2311": {
+        "course_name_ar": "البرمجة الشيئية",
+        "course_name_en": "OBJECT-ORIENTED PROGRAMMING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Ahmed J. A. Fahal",
+                "capacity": "2",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:15",
+                "location": "Masri306"
+            },
+            {
+                "section_type": "Lab",
+                "section_number": "1",
+                "instructor": "Ahmed J. A. Fahal",
+                "capacity": "2",
+                "days": "M, T, W",
+                "time": "11:00 - 13:50",
+                "location": "Masri507"
+            }
+        ]
+    },
+    "COMP233": {
+        "course_name_ar": "الرياضيات المنفصلة",
+        "course_name_en": "DISCRETE MATHEMATICS",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohammad Y. M. Alkhanafseh",
+                "capacity": "14",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "Masri504"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Mohammad Y. M. Alkhanafseh",
+                "capacity": "3",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:50",
+                "location": "Masri504"
+            }
+        ]
+    },
+    "COMP311": {
+        "course_name_ar": "مختبر نظام تشغيل لينوكس",
+        "course_name_en": "LINUX OPERATING SYSTEMS LAB",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Karmel F. M. Shehadeh",
+                "capacity": "13",
+                "days": "M, T, W",
+                "time": "11:00 - 13:50",
+                "location": "Masri402"
+            }
+        ]
+    },
+    "COMP3300": {
+        "course_name_ar": "التدريب العملي",
+        "course_name_en": "PRACTICAL TRAINING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Sobhi Ghassen Sobhi Ahmed",
+                "capacity": "35",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Sobhi Ghassen Sobhi Ahmed",
+                "capacity": "7",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "3",
+                "instructor": "Sobhi Ghassen Sobhi Ahmed",
+                "capacity": "0",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "COVA3240": {
+        "course_name_ar": "التدريب العملي",
+        "course_name_en": "PRACTICAL TRAINING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohammed S. M. Khalil",
+                "capacity": "1",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "CSEC3300": {
+        "course_name_ar": "التدريب العملي",
+        "course_name_en": "PRACTICAL TRAINING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Abdallah Haidar Mohammad Karakra",
+                "capacity": "4",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "CULS331": {
+        "course_name_ar": "الحضارة الاوروبية الحديثه والمعاصره",
+        "course_name_en": "MODERN AND CONTEMPORARY EUROPEAN CIVILIZATION",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Manar Mohammad Afif Kawasmi",
+                "capacity": "8",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "A.Shaheen266"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "3",
+                "instructor": "Basel Ibrahim Yousif Rayyan",
+                "capacity": "14",
+                "days": "S, M, T, W, R",
+                "time": "08:30 - 10:20",
+                "location": "A.Shaheen202"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "4",
+                "instructor": "Basel Ibrahim Yousif Rayyan",
+                "capacity": "16",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:50",
+                "location": "A.Shaheen202"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "5",
+                "instructor": "Sonia Fathi Sai'D Nimer",
+                "capacity": "1",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "A.Shaheen262"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "6",
+                "instructor": "Sonia Fathi Sai'D Nimer",
+                "capacity": "4",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:50",
+                "location": "A.Shaheen262"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "7",
+                "instructor": "Manar Mohammad Afif Kawasmi",
+                "capacity": "45",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "A.Shaheen266"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "9",
+                "instructor": "Qasam Theeb Qassim \"Haj Mohammad\"",
+                "capacity": "11",
+                "days": "S, M, T, W, R",
+                "time": "14:00 - 15:50",
+                "location": "PNH103"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "10",
+                "instructor": "Qasam Theeb Qassim \"Haj Mohammad\"",
+                "capacity": "3",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:50",
+                "location": "PNH103"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "11",
+                "instructor": "Abdul Karim Majed Mustafa Barghothi",
+                "capacity": "6",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "Aggad338"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "12",
+                "instructor": "Abdul Karim Majed Mustafa Barghothi",
+                "capacity": "9",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "Aggad338"
+            }
+        ]
+    },
+    "CULS332": {
+        "course_name_ar": "الفكر العربي الحديث والمعاصر",
+        "course_name_en": "MODERN AND CONTEMPORARY ARAB THOUGHT",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Rami Fawzi Issa Salameh",
+                "capacity": "45",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "Bahrain101"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Rami Fawzi Issa Salameh",
+                "capacity": "39",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "Bahrain101"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "3",
+                "instructor": "Huda Ribhi Hassan Awad",
+                "capacity": "2",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:50",
+                "location": "Bamieh102"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "4",
+                "instructor": "Huda Ribhi Hassan Awad",
+                "capacity": "3",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "Bamieh102"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "5",
+                "instructor": "Rana Adeeb Abdullah Kherawish",
+                "capacity": "45",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "A.Shaheen064"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "6",
+                "instructor": "Rana Adeeb Abdullah Kherawish",
+                "capacity": "18",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "A.Shaheen064"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "7",
+                "instructor": "Bashir Rizeqallah Abd Alraziq Doha",
+                "capacity": "1",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "A.Shaheen266"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "8",
+                "instructor": "Sa'D Fathi Said Nimer",
+                "capacity": "8",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "A.Shaheen252"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "9",
+                "instructor": "Yasser H. Y. Khanger",
+                "capacity": "1",
+                "days": "S, M, T, W, R",
+                "time": "14:00 - 15:50",
+                "location": "Bamieh205"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "10",
+                "instructor": "Yasser H. Y. Khanger",
+                "capacity": "0",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "Bamieh205"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "11",
+                "instructor": "Sa'D Fathi Said Nimer",
+                "capacity": "7",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:50",
+                "location": "A.Shaheen252"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "12",
+                "instructor": "Raed Taleb Bader Bader",
+                "capacity": "5",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "PNH105"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "13",
+                "instructor": "Raed Taleb Bader Bader",
+                "capacity": "12",
+                "days": "S, M, T, W, R",
+                "time": "13:00 - 14:50",
+                "location": "A.Shaheen252"
+            }
+        ]
+    },
+    "DSGN3340": {
+        "course_name_ar": "التدريب العملي",
+        "course_name_en": "PRACTICAL TRAINING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Dennis Z. Y. Sobeh",
+                "capacity": "2",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Dennis Z. Y. Sobeh",
+                "capacity": "0",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "DSIN3240": {
+        "course_name_ar": "التدريب العملي",
+        "course_name_en": "PRACTICAL TRAINING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "11",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "",
+                "capacity": "6",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "ECON132": {
+        "course_name_ar": "مبادئ الإقتصاد الكلي",
+        "course_name_en": "PRINCIPLES OF MACROECONOMICS",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohammad Nassar Ahmad Amreyeh",
+                "capacity": "102",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "O.Abdulhadi052"
+            }
+        ]
+    },
+    "ECON233": {
+        "course_name_ar": "مجمل في الإقتصاد",
+        "course_name_en": "GENERAL ECONOMICS",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Najibeh Mohammad Saleh Morar",
+                "capacity": "9",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "Aggad221"
+            }
+        ]
+    },
+    "ECON235": {
+        "course_name_ar": "مناهج البحث",
+        "course_name_en": "METHODOLOGY OF RESEARCH",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "28",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "Al-Juraysi125"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "",
+                "capacity": "30",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "Al-Juraysi123"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "3",
+                "instructor": "",
+                "capacity": "31",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "Al-Juraysi125"
+            }
+        ]
+    },
+    "ECON3311": {
+        "course_name_ar": "الإقتصاد التحليلي الجزئي 1",
+        "course_name_en": "ANALYTICAL MICROECONOMICS 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Sameera M. I. Awawda",
+                "capacity": "30",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "O.Abdulhadi153"
+            }
+        ]
+    },
+    "ECON3321": {
+        "course_name_ar": "الإقتصاد التحليلي الكلي 1",
+        "course_name_en": "ANALYTICAL MACROECONOMICS 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohammad Nassar Ahmad Amreyeh",
+                "capacity": "59",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "O.Abdulhadi151"
+            }
+        ]
+    },
+    "EDUC2360": {
+        "course_name_ar": "الأسس النفسية للتربية",
+        "course_name_en": "PSYCHOLOGICAL FOUNDATIONS OF EDUCATION",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mousa Mohammed Mousa Khaldi",
+                "capacity": "14",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "Bamieh105"
+            }
+        ]
+    },
+    "EDUC334": {
+        "course_name_ar": "القياس والتقويم",
+        "course_name_en": "MEASUREMENT AND EVALUATION",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mousa Mohammed Mousa Khaldi",
+                "capacity": "23",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "Bamieh105"
+            }
+        ]
+    },
+    "EDUC431": {
+        "course_name_ar": "المنهاج والتعليم",
+        "course_name_en": "CURRICULUM AND TEACHING",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Abdallah Ibrahim Atiyeh Bsharat",
+                "capacity": "6",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "Bamieh203"
+            }
+        ]
+    },
+    "EDUC621": {
+        "course_name_ar": "التربية والمجتمع في البلاد العربية",
+        "course_name_en": "EDUCATION AND SOCIETY IN ARAB COUNTRIES",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Ola 'M.Monther' Rafic Khalili",
+                "capacity": "10",
+                "days": "M, T, W",
+                "time": "12:00 - 13:50",
+                "location": "Bamieh304"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Hasan M. A. Abdelkareem",
+                "capacity": "1",
+                "days": "M, T, W",
+                "time": "14:00 - 16:50",
+                "location": "Bamieh203"
+            }
+        ]
+    },
+    "EDUC839": {
+        "course_name_ar": "موضوع خاص : التطور المهني لدى المعلمين",
+        "course_name_en": "SP.TOP : TEACHER PROFESSIONAL DEVELOPMENT",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Abdallah Ibrahim Atiyeh Bsharat",
+                "capacity": "5",
+                "days": "M, T, W",
+                "time": "14:00 - 16:50",
+                "location": "Bamieh106"
+            }
+        ]
+    },
+    "ENAR4300": {
+        "course_name_ar": "التدريب العملي",
+        "course_name_en": "PRACTICAL TRAINING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "May Sami Ahmad Sayrafi",
+                "capacity": "11",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "May Sami Ahmad Sayrafi",
+                "capacity": "0",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "ENAR520": {
+        "course_name_ar": "مقدمة لمشروع التخرج",
+        "course_name_en": "INTRODUCTION TO GRADUATION PROJECT",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohammad R. M. Jawabreh",
+                "capacity": "4",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "ENAR5411": {
+        "course_name_ar": "تصميم معماري متقدم",
+        "course_name_en": "ADVANCED ARCHITECTURAL DESIGN",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Manal Ahmad Mohammad Al Bishawi",
+                "capacity": "3",
+                "days": "M, T, W, R",
+                "time": "08:00 - 08:50",
+                "location": "Aggad221"
+            },
+            {
+                "section_type": "Lab",
+                "section_number": "1",
+                "instructor": "Manal Ahmad Mohammad Al Bishawi",
+                "capacity": "3",
+                "days": "M, T, W, R",
+                "time": "09:00 - 12:50",
+                "location": "Aggad525"
+            }
+        ]
+    },
+    "ENCE4300": {
+        "course_name_ar": "التدريب العملي",
+        "course_name_en": "PRACTICAL TRAINING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mustafa Shaban Mas'Oud Abed Musa",
+                "capacity": "15",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "ENCS2110": {
+        "course_name_ar": "مختبر الإلكترونيات الرقمية وتنظيم الحاسوب",
+        "course_name_en": "DIGITAL ELECTRONICS AND COMPUTER ORGANIZATION LABORATORY",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "8",
+                "days": "M, T, W",
+                "time": "08:00 - 10:50",
+                "location": "Masri107"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "",
+                "capacity": "18",
+                "days": "M, T, W",
+                "time": "11:00 - 13:50",
+                "location": "Masri107"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "3",
+                "instructor": "",
+                "capacity": "19",
+                "days": "M, T, W",
+                "time": "14:00 - 16:50",
+                "location": "Masri107"
+            }
+        ]
+    },
+    "ENCS2340": {
+        "course_name_ar": "أنظمة رقمية",
+        "course_name_en": "DIGITAL SYSTEMS",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Aziz Mohammed Ahmad Qaroush",
+                "capacity": "13",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "Masri202"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Yazan Jamal Ibrahim Abu Farha",
+                "capacity": "12",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "Masri302"
+            }
+        ]
+    },
+    "ENCS2380": {
+        "course_name_ar": "تنظيم الحاسوب والمعالج الدقيق",
+        "course_name_en": "COMPUTER ORGANIZATION AND MICROPROCESSOR",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Abualseoud Ahmad Abualseoud Hanani",
+                "capacity": "18",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "Masri108"
+            }
+        ]
+    },
+    "ENCS3130": {
+        "course_name_ar": "مختبر لينوكس",
+        "course_name_en": "LINUX LABORATORY",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "21",
+                "days": "M, T, W",
+                "time": "08:00 - 10:50",
+                "location": "Masri407"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "",
+                "capacity": "23",
+                "days": "M, T, W",
+                "time": "11:00 - 13:50",
+                "location": "Masri407"
+            }
+        ]
+    },
+    "ENCS3310": {
+        "course_name_ar": "تصميم الأنظمة الرقمية المتقدمة",
+        "course_name_en": "ADVANCED DIGITAL SYSTEMS DESIGN",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Ayman Ali Mohammad Hroub",
+                "capacity": "41",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "Masri306"
+            }
+        ]
+    },
+    "ENCS3320": {
+        "course_name_ar": "شبكات الحاسوب",
+        "course_name_en": "COMPUTER NETWORKS",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Ahmed I. A. Shawahna",
+                "capacity": "23",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "Masri406"
+            }
+        ]
+    },
+    "ENCS3360": {
+        "course_name_ar": "تنظيم الحاسوب ولغة التجميع",
+        "course_name_en": "COMPUTER ORGANIZATION AND ASSEMBLY LANGUAGE",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "25",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "Masri106"
+            }
+        ]
+    },
+    "ENCS4110": {
+        "course_name_ar": "مختبر تطبيقات الحاسوب",
+        "course_name_en": "COMPUTER DESIGN LABORATORY",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "23",
+                "days": "M, T, W",
+                "time": "14:00 - 16:50",
+                "location": "Masri207"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "",
+                "capacity": "26",
+                "days": "M, T, W",
+                "time": "11:00 - 13:50",
+                "location": "Masri207"
+            }
+        ]
+    },
+    "ENCS4130": {
+        "course_name_ar": "مختبر شبكات الحاسوب",
+        "course_name_en": "COMPUTER NETWORK LABORATORY",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "25",
+                "days": "M, T, W",
+                "time": "11:00 - 13:50",
+                "location": "Masri503"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "",
+                "capacity": "21",
+                "days": "M, T, W",
+                "time": "14:00 - 16:50",
+                "location": "Masri503"
+            }
+        ]
+    },
+    "ENCS4300": {
+        "course_name_ar": "التدريب العملي",
+        "course_name_en": "PRACTICAL TRAINING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohammed Sami Abdul Karim Hussein",
+                "capacity": "22",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Mohammed Sami Abdul Karim Hussein",
+                "capacity": "1",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "3",
+                "instructor": "Mohammed Sami Abdul Karim Hussein",
+                "capacity": "2",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "ENCS4310": {
+        "course_name_ar": "معالجة الإشارات الرقمية",
+        "course_name_en": "DIGITAL SIGNAL PROCESSING (DSP)",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Alhareth M. T. Zyoud",
+                "capacity": "52",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "Masri502"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "",
+                "capacity": "17",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "Masri204"
+            }
+        ]
+    },
+    "ENCS5140": {
+        "course_name_ar": "مختبر نظم الزمن وأساليب المواءمة الحقيقي",
+        "course_name_en": "REAL-TIME SYSTEM AND INTERFACING TECHNIQUES LABORATORY",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "24",
+                "days": "M, T, W",
+                "time": "14:00 - 16:50",
+                "location": "Masri506"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "",
+                "capacity": "4",
+                "days": "M, T, W",
+                "time": "11:00 - 13:50",
+                "location": "Masri506"
+            }
+        ]
+    },
+    "ENCS5141": {
+        "course_name_ar": "مختبر الأنظمة الذكية",
+        "course_name_en": "INTELLIGENT SYSTEMS LAB",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "13",
+                "days": "M, T, W",
+                "time": "14:00 - 16:50",
+                "location": "Masri407"
+            }
+        ]
+    },
+    "ENCS5150": {
+        "course_name_ar": "مختبر متقدم في هندسة انظمة الحاسوب",
+        "course_name_en": "ADVANCED COMPUTER SYSTEMS ENGINEERING LABORATORY",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "26",
+                "days": "M, T, W",
+                "time": "11:00 - 13:50",
+                "location": "WKS215"
+            }
+        ]
+    },
+    "ENCS5337": {
+        "course_name_ar": "فحص تصميم العتاد",
+        "course_name_en": "CHIP DESIGN VERIFICATION",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "27",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "Masri304"
+            }
+        ]
+    },
+    "ENCS5344": {
+        "course_name_ar": "معالجة اللغات المحكية",
+        "course_name_en": "SPOKEN LANGUAGE PROCESSING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Abualseoud Ahmad Abualseoud Hanani",
+                "capacity": "30",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "Masri404"
+            }
+        ]
+    },
+    "ENEE2103": {
+        "course_name_ar": "مختبر الدوائر والإلكترونيات",
+        "course_name_en": "CIRCUITS AND ELECTRONICS LABORATORY",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "15",
+                "days": "M, T, W",
+                "time": "08:00 - 10:50",
+                "location": "Masri203"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "",
+                "capacity": "18",
+                "days": "M, T, W",
+                "time": "11:00 - 13:50",
+                "location": "Masri203"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "3",
+                "instructor": "",
+                "capacity": "18",
+                "days": "M, T, W",
+                "time": "14:00 - 16:50",
+                "location": "Masri203"
+            }
+        ]
+    },
+    "ENEE2306": {
+        "course_name_ar": "تحليل الدوائر الكهربائية",
+        "course_name_en": "CIRCUIT ANALYSIS",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Ali Hasan Moath Abdo",
+                "capacity": "2",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "Masri106"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Hakam Suleiman Nu'Man Shehadeh",
+                "capacity": "9",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "Masri106"
+            }
+        ]
+    },
+    "ENEE2307": {
+        "course_name_ar": "الاحتمالات والإحصاء الهندسي",
+        "course_name_en": "PROBABILITY AND ENGINEERING STATISTICS",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Wasel Tahsin Ahmad Ghanem",
+                "capacity": "2",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "Masri109"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Mohammad Khaleel Issa Jubran",
+                "capacity": "28",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "Masri109"
+            }
+        ]
+    },
+    "ENEE2312": {
+        "course_name_ar": "الإشارات والأنظمة",
+        "course_name_en": "SIGNALS AND SYSTEMS",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Jamal Othman Hosen Seyam",
+                "capacity": "7",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "Masri302"
+            }
+        ]
+    },
+    "ENEE2360": {
+        "course_name_ar": "الإلكترونيات التمثيلية",
+        "course_name_en": "ANALOG ELECTRONICS",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh",
+                "capacity": "53",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "Masri204"
+            }
+        ]
+    },
+    "ENEE4102": {
+        "course_name_ar": "مختبر أساسيات الآلات الكهربائية",
+        "course_name_en": "FUNDAMENTALS OF ELECTRICAL MACHINES LAB.",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "14",
+                "days": "M, T, W",
+                "time": "14:00 - 16:50",
+                "location": "Aggad345"
+            }
+        ]
+    },
+    "ENEE4113": {
+        "course_name_ar": "مختبر الاتصالات",
+        "course_name_en": "COMMUNICATIONS LAB",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "20",
+                "days": "M, T, W",
+                "time": "08:00 - 10:50",
+                "location": "Aggad341"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "",
+                "capacity": "23",
+                "days": "M, T, W",
+                "time": "11:00 - 13:50",
+                "location": "Aggad341"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "3",
+                "instructor": "",
+                "capacity": "23",
+                "days": "M, T, W",
+                "time": "14:00 - 16:50",
+                "location": "Aggad341"
+            }
+        ]
+    },
+    "ENEE4300": {
+        "course_name_ar": "التدريب العملي",
+        "course_name_en": "PRACTICAL TRAINING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "4",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "ENGC1400": {
+        "course_name_ar": "لغة انجليزية مستوى متوسط مكثف 1",
+        "course_name_en": "INTENSIVE INTERMEDIATE ENGLISH 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Oraib Aref Ali Khammash",
+                "capacity": "4",
+                "days": "S, M, T, W, RM, W",
+                "time": "09:00 - 10:5014:00 - 15:20",
+                "location": "A.Shaheen062A.Shaheen062"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Oraib Aref Ali Khammash",
+                "capacity": "3",
+                "days": "S, M, T, W, RS, R",
+                "time": "12:00 - 13:4014:00 - 15:20",
+                "location": "A.Shaheen116A.Shaheen116"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "3",
+                "instructor": "Fatima Yacoub Jum'Ah Qarash",
+                "capacity": "7",
+                "days": "M, WS, M, T, W, R",
+                "time": "08:00 - 09:2010:00 - 11:40",
+                "location": "PNH303PNH303"
+            }
+        ]
+    },
+    "ENGC233": {
+        "course_name_ar": "اللغة الإنجليزية من خلال موضوعات معاصرة",
+        "course_name_en": "ENGLISH THROUGH CURRENT ISSUES",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Ruba Abdul_Latif Mustafa Khalaf",
+                "capacity": "4",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "A.Shaheen256"
+            }
+        ]
+    },
+    "ENGC2400": {
+        "course_name_ar": "لغة انجليزية مستوى متوسط مكثف 2",
+        "course_name_en": "INTENSIVE INTERMEDIATE ENGLISH 2",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohamed Kamel Ahmad Ishnaiwer",
+                "capacity": "30",
+                "days": "S, RS, M, T, W, R",
+                "time": "08:00 - 09:2010:00 - 11:50",
+                "location": "SCI217SCI217"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Ahmad Shukri Ahmad Shayeb",
+                "capacity": "34",
+                "days": "S, M, T, W, RM, W",
+                "time": "12:00 - 13:5014:00 - 15:20",
+                "location": "A.Shaheen216A.Shaheen216"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "3",
+                "instructor": "Ahmad Shukri Ahmad Shayeb",
+                "capacity": "35",
+                "days": "S, M, T, W, RS, R",
+                "time": "09:00 - 10:5014:00 - 15:20",
+                "location": "A.Shaheen216A.Shaheen216"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "4",
+                "instructor": "Tagreed Bajes Butros Abed",
+                "capacity": "8",
+                "days": "S, M, T, W, RM, W",
+                "time": "08:00 - 09:5010:00 - 11:20",
+                "location": "SCI219SCI219"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "5",
+                "instructor": "Fatima Yacoub Jum'Ah Qarash",
+                "capacity": "33",
+                "days": "T, RS, M, T, W, R",
+                "time": "08:00 - 09:2012:00 - 13:50",
+                "location": "PNH303PNH303"
+            }
+        ]
+    },
+    "ENGC2401": {
+        "course_name_ar": "لغة انجليزية مستوى متقدم / مكثف",
+        "course_name_en": "INTENSIVE ADVANCED ENGLISH",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Adnan Ibrahim Abdallah Abuayyash",
+                "capacity": "8",
+                "days": "S, M, T, W, RM, W",
+                "time": "09:00 - 10:5014:00 - 15:20",
+                "location": "A.Shaheen206A.Shaheen206"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Adnan Ibrahim Abdallah Abuayyash",
+                "capacity": "16",
+                "days": "S, M, T, W, RT, R",
+                "time": "12:00 - 13:4014:00 - 15:20",
+                "location": "A.Shaheen206A.Shaheen206"
+            }
+        ]
+    },
+    "ENGL235": {
+        "course_name_ar": "القواعد الانجليزية",
+        "course_name_en": "ENGLISH GRAMMAR",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Maen Hussam Abdlatife Saa",
+                "capacity": "4",
+                "days": "S, M, T, W, R",
+                "time": "14:00 - 15:50",
+                "location": "ALSADIK408"
+            }
+        ]
+    },
+    "ENGL236": {
+        "course_name_ar": "مدخل إلى علم اللغة",
+        "course_name_en": "INTRODUCTION TO LINGUISTICS",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Maen Hussam Abdlatife Saa",
+                "capacity": "9",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "ALSADIK408"
+            }
+        ]
+    },
+    "ENGL237": {
+        "course_name_ar": "علم تمثيل الاصوات الوظيفي",
+        "course_name_en": "FUNCTIONAL PHONETICS",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Wael Abed Lafi Abdeen",
+                "capacity": "3",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:50",
+                "location": "Bamieh201"
+            }
+        ]
+    },
+    "ENGL238": {
+        "course_name_ar": "مدخل للأدب الإنجليزى",
+        "course_name_en": "INTRODUCTION TO LITERATURE",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Lubna \"Muhammad Ahed Diab Dikeidek",
+                "capacity": "11",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "Bamieh106"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Lubna \"Muhammad Ahed Diab Dikeidek",
+                "capacity": "3",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:50",
+                "location": "Bamieh106"
+            }
+        ]
+    },
+    "ENGL330": {
+        "course_name_ar": "الأدب الإنجليزي 1",
+        "course_name_en": "ENGLISH LITERATURE 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Lloyd Howard James Precious",
+                "capacity": "6",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "A.Shaheen062"
+            }
+        ]
+    },
+    "ENGL336": {
+        "course_name_ar": "علم النحو",
+        "course_name_en": "SYNTAX",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Wael Abed Lafi Abdeen",
+                "capacity": "13",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "A.Shaheen064"
+            }
+        ]
+    },
+    "ENGL339": {
+        "course_name_ar": "مهارات التفاعل اللغوي بالإنجليزية",
+        "course_name_en": "INTERACTIVE ENGLISH",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Laila K. I Shikaki",
+                "capacity": "10",
+                "days": "S, M, T, W, R",
+                "time": "14:00 - 15:50",
+                "location": "A.Shaheen112"
+            }
+        ]
+    },
+    "ENLG4392": {
+        "course_name_ar": "موضوع خاص: الكتابة الابداعية",
+        "course_name_en": "SP.TOP: CREATIVE WRITING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Laila K. I Shikaki",
+                "capacity": "6",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "Bamieh103"
+            }
+        ]
+    },
+    "ENMC3111": {
+        "course_name_ar": "مختبر المحاكاة الهندسية باستخدام الحاسوب",
+        "course_name_en": "COMPUTER AIDED ENGINEERING LAB.",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mamon Mohammad Abedalqader Horoub",
+                "capacity": "0",
+                "days": "M, T, W",
+                "time": "08:00 - 10:50",
+                "location": "Aggad344"
+            }
+        ]
+    },
+    "ENMC3251": {
+        "course_name_ar": "التحليل الاحصائي",
+        "course_name_en": "STATISTICAL ANALYSIS",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mamon Mohammad Abedalqader Horoub",
+                "capacity": "5",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:50",
+                "location": "Aggad332"
+            }
+        ]
+    },
+    "ENMC4300": {
+        "course_name_ar": "التدريب العملي",
+        "course_name_en": "PRACTICAL TRAINING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Allan S. E. Tubaileh",
+                "capacity": "1",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "ENME1210": {
+        "course_name_ar": "الرسم الهندسي",
+        "course_name_en": "ENGINEERING DRAWING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Allan S. E. Tubaileh",
+                "capacity": "15",
+                "days": "M, T, W, R",
+                "time": "14:00 - 14:50",
+                "location": "Aggad336"
+            },
+            {
+                "section_type": "Lab",
+                "section_number": "1",
+                "instructor": "Allan S. E. Tubaileh",
+                "capacity": "15",
+                "days": "M, T, W",
+                "time": "11:00 - 13:50",
+                "location": "Aggad342"
+            }
+        ]
+    },
+    "ENME232": {
+        "course_name_ar": "الديناميكا",
+        "course_name_en": "DYNAMICS",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Nidal Mohammad Abdel Qader Farhat",
+                "capacity": "14",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "Aggad332"
+            }
+        ]
+    },
+    "ENME3100": {
+        "course_name_ar": "مقدمة التدريب العملي",
+        "course_name_en": "INTRODUCTION TO PRACTICAL TRAINING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Ibrahim Mohammad Othman Hammad",
+                "capacity": "0",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "ENME312": {
+        "course_name_ar": "مختبر ميكانيكا الموائع",
+        "course_name_en": "FLUID MECHANICS LAB",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohannad Abd Latif Saleh Tahboub",
+                "capacity": "5",
+                "days": "M, T, W",
+                "time": "14:00 - 16:50",
+                "location": "Aggad141"
+            }
+        ]
+    },
+    "ENME4300": {
+        "course_name_ar": "التدريب العملي",
+        "course_name_en": "PRACTICAL TRAINING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Ibrahim Mohammad Othman Hammad",
+                "capacity": "0",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "ENPL4300": {
+        "course_name_ar": "التدريب العملي",
+        "course_name_en": "PRACTICAL TRAINING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Manal Ahmad Mohammad Al Bishawi",
+                "capacity": "2",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "FINN1300": {
+        "course_name_ar": "مبادىء الإدارة المالية 1",
+        "course_name_en": "PRINCIPLES OF FINANCIAL MANAGEMENT 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Muniece Abdelrahman Ameen Alfar",
+                "capacity": "8",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "A.Shaheen102"
+            }
+        ]
+    },
+    "FINN2300": {
+        "course_name_ar": "مبادىء الإدارة المالية 2",
+        "course_name_en": "PRINCIPLES OF FINANCIAL MANAGEMENT 2",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Fairouz Sa'Eed Mouhamed Darwish",
+                "capacity": "43",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "O.Abdulhadi052"
+            }
+        ]
+    },
+    "FINN3301": {
+        "course_name_ar": "الإدارة المالية الإسلامية",
+        "course_name_en": "ISLAMIC FINANCIAL MANAGEMENT",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Fairouz Sa'Eed Mouhamed Darwish",
+                "capacity": "6",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "Al-Juraysi229"
+            }
+        ]
+    },
+    "FINN3302": {
+        "course_name_ar": "النمذجة المالية",
+        "course_name_en": "FINANCIAL MODELING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Muniece Abdelrahman Ameen Alfar",
+                "capacity": "28",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "Al-Juraysi122"
+            }
+        ]
+    },
+    "GENS131": {
+        "course_name_ar": "علوم حياتية",
+        "course_name_en": "LIFE SCIENCE",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Rateb Mohammad Abdul Rahman Hussein",
+                "capacity": "1",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "Aggad225"
+            }
+        ]
+    },
+    "GENS220": {
+        "course_name_ar": "الانسان والتكاثر",
+        "course_name_en": "HUMAN REPRODUCTION",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Munther Hikmat Mohummad Metani",
+                "capacity": "5",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:20",
+                "location": "N/A"
+            }
+        ]
+    },
+    "GEOG210": {
+        "course_name_ar": "قضايا البيئة في المجتمع الفلسطيني",
+        "course_name_en": "ENVIRONMENTAL ISSUES IN THE PALESTINIAN SOCIETY",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Khalil Abdullah Mutawe' Amro",
+                "capacity": "8",
+                "days": "M, T, W, R",
+                "time": "12:00 - 12:50",
+                "location": "Khoury105"
+            }
+        ]
+    },
+    "GEOG338": {
+        "course_name_ar": "جغرافية فلسطين",
+        "course_name_en": "GEOGRAPHY OF PALESTINE",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohammad Tayseer Ahmad Kittaneh",
+                "capacity": "3",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "A.Shaheen116"
+            }
+        ]
+    },
+    "GEOG435": {
+        "course_name_ar": "جغرافية التنمية والتخطيط الاقليمي",
+        "course_name_en": "GEOGRAPHY OF DEVELOPMENT AND REGIONAL PLANNING",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Khalil Abdullah Mutawe' Amro",
+                "capacity": "3",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "A.Shaheen112"
+            }
+        ]
+    },
+    "GEOI4370": {
+        "course_name_ar": "إدارة مشاريع نظم المعلومات الجغرافية",
+        "course_name_en": "MANAGEMENT OF GEOGRAPHIC INFORMATION SYSTEMS PROJECTS",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohammad Tayseer Ahmad Kittaneh",
+                "capacity": "10",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:20",
+                "location": "A.Shaheen112"
+            },
+            {
+                "section_type": "Lab",
+                "section_number": "1",
+                "instructor": "Mohammad Tayseer Ahmad Kittaneh",
+                "capacity": "10",
+                "days": "M, T, W",
+                "time": "14:00 - 16:50",
+                "location": "A.Shaheen233"
+            }
+        ]
+    },
+    "GOVS7345": {
+        "course_name_ar": "(LED) موضوع خاص: التنمية الاقتصادية المحلية",
+        "course_name_en": "SP.TOP: LOCAL ECONOMIC DEVELOPMENT",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Samia Mahmoud Ahmad Al-Botmeh",
+                "capacity": "0",
+                "days": "S, M, W",
+                "time": "14:00 - 16:50",
+                "location": "ALSADIK204"
+            }
+        ]
+    },
+    "HEBR331": {
+        "course_name_ar": "اللغة العبرية 1",
+        "course_name_en": "HEBREW LANGUAGE 1",
+        "study_language": "Study Language: Hebrew",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mahmud Mohammad Abdallah Abu Katish",
+                "capacity": "14",
+                "days": "S, M, T, W, R",
+                "time": "14:00 - 15:50",
+                "location": "O.Abdulhadi151"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Mahmud Mohammad Abdallah Abu Katish",
+                "capacity": "45",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "O.Abdulhadi151"
+            }
+        ]
+    },
+    "HIST133": {
+        "course_name_ar": "معالم الحضارة العربية الاسلامية",
+        "course_name_en": "ARAB ISLAMIC CIVILIZATION",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Amer Najeeb Mousa Barakat",
+                "capacity": "8",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "A.Shaheen102"
+            }
+        ]
+    },
+    "HIST135": {
+        "course_name_ar": "تاريخ القدس",
+        "course_name_en": "HISTORY OF JERUSALEM",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Amer Najeeb Mousa Barakat",
+                "capacity": "0",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "A.Shaheen152"
+            }
+        ]
+    },
+    "HLTH637": {
+        "course_name_ar": "الصحة العامة كمدخل لدراسة الأمراض المعدية وغير المعدية",
+        "course_name_en": "A PUBLIC HEALTH APPROACH TO COMMUNICABLE AND NON-COMMUNICABLE DISEASES",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Said F. S. Abukhattab",
+                "capacity": "0",
+                "days": "M, T, W",
+                "time": "12:00 - 14:50",
+                "location": "Khoury228"
+            }
+        ]
+    },
+    "INED2326": {
+        "course_name_ar": "صعوبات التعلم وتصنيفاتها",
+        "course_name_en": "LEARNING CHALLENGES AND CATEGORIES",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Rola Jamal Abdalhafeez Abu Shamma",
+                "capacity": "7",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "Bamieh201"
+            }
+        ]
+    },
+    "INED3321": {
+        "course_name_ar": "التكنولوجيا في التعليم الجامع",
+        "course_name_en": "TECHNOLOGY IN INCLUSIVE EDUCATION",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Fatma K. M. Mohammed",
+                "capacity": "3",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:50",
+                "location": "Bamieh204"
+            }
+        ]
+    },
+    "INED4325": {
+        "course_name_ar": "تدريس اللغة الانجليزية في التعليم الجامع",
+        "course_name_en": "TEACHING ENGLISH IN INCLUSIVE EDUCATION",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Fatma K. M. Mohammed",
+                "capacity": "8",
+                "days": "S, M, T, W, R",
+                "time": "13:00 - 14:50",
+                "location": "Bamieh102"
+            }
+        ]
+    },
+    "INED4327": {
+        "course_name_ar": "مناهج وأساليب التدريس في التعليم الجامع والتربية الخاصة",
+        "course_name_en": "CURRICULUM AND INSTRUCTION IN INCLUSIVE EDUCATION AND SPECIAL EDUCATION",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Hasan M. A. Abdelkareem",
+                "capacity": "13",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:50",
+                "location": "Bamieh104"
+            }
+        ]
+    },
+    "JURI130": {
+        "course_name_ar": "مدخل إلى العلوم القانونية",
+        "course_name_en": "INTRODUCTION TO LEGAL SCIENCES",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohammed Ibrahim Mohammed Alqaisi",
+                "capacity": "1",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "Bamieh002"
+            }
+        ]
+    },
+    "JURI232": {
+        "course_name_ar": "القانون الإداري",
+        "course_name_en": "ADMINISTRATIVE LAW",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Ahmad Ali Hussain Khaled",
+                "capacity": "12",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "ALSADIK102"
+            }
+        ]
+    },
+    "JURI2341": {
+        "course_name_ar": "الجرائم الواقعة على الأموال",
+        "course_name_en": "CRIMES AGAINST PROPERTY",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mustafa Hussein Mahmoud Abdul Baqi",
+                "capacity": "31",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "ALSADIK103"
+            }
+        ]
+    },
+    "JURI3311": {
+        "course_name_ar": "الحقوق العينية",
+        "course_name_en": "RIGHTS IN REM",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Hussein Ahed Hussein Ayaseh",
+                "capacity": "14",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "ALSADIK408"
+            }
+        ]
+    },
+    "JURI339": {
+        "course_name_ar": "قانون أصول المحاكمات المدنية والتجارية",
+        "course_name_en": "CIVIL AND COMMERCIAL PROCEDURES LAW",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mahmoud Mohammad Mahmoud Abu Sawi",
+                "capacity": "14",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "ALSADIK102"
+            }
+        ]
+    },
+    "JURI421": {
+        "course_name_ar": "قانون التنفيذ",
+        "course_name_en": "LAW OF EXECUTION",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Hussein Ahed Hussein Ayaseh",
+                "capacity": "10",
+                "days": "S, M, T, W, R",
+                "time": "14:00 - 15:20",
+                "location": "ALSADIK102"
+            }
+        ]
+    },
+    "JURI4211": {
+        "course_name_ar": "قانون التأمين",
+        "course_name_en": "INSURANCE LAW",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Isa A. A. Abualhaj",
+                "capacity": "11",
+                "days": "S, M, T, W, R",
+                "time": "14:00 - 15:20",
+                "location": "ALSADIK103"
+            }
+        ]
+    },
+    "JURI4212": {
+        "course_name_ar": "قانون الأراضي",
+        "course_name_en": "LAND LAW",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Hussein Ahed Hussein Ayaseh",
+                "capacity": "18",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:20",
+                "location": "ALSADIK305"
+            }
+        ]
+    },
+    "JURI431": {
+        "course_name_ar": "قانون البينات",
+        "course_name_en": "LAW OF EVIDENCE",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mahmoud Mohammad Mahmoud Abu Sawi",
+                "capacity": "16",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:20",
+                "location": "ALSADIK102"
+            }
+        ]
+    },
+    "JURI439": {
+        "course_name_ar": "موضوع خاص: الجرائم الالكترونية وجرائم تكنولوجيا المعلومات",
+        "course_name_en": "SP.TOP: CYBERCRIMES",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mustafa Hussein Mahmoud Abdul Baqi",
+                "capacity": "12",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "ALSADIK202"
+            }
+        ]
+    },
+    "JURI7366": {
+        "course_name_ar": "دراسات معمقة في القضاء الإداري",
+        "course_name_en": "SPECIALIZED TOPICS IN ADMINISTRATIVE COURTS",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Ahmad Ali Hussain Khaled",
+                "capacity": "0",
+                "days": "S, M, W",
+                "time": "14:00 - 16:50",
+                "location": "ALSADIK307"
+            }
+        ]
+    },
+    "JURI7391": {
+        "course_name_ar": "موضوعات مختارة: التمويل الاسلامي",
+        "course_name_en": "SELECETED TOPICS: ISLAMIC FINANCE",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohammad Wajeeh Mohammad Hanini",
+                "capacity": "0",
+                "days": "S, M, W",
+                "time": "14:00 - 16:50",
+                "location": "ALSADIK407"
+            }
+        ]
+    },
+    "LAIT6340": {
+        "course_name_ar": "التنظيم القانوني للإعلام الإلكتروني",
+        "course_name_en": "LEGAL REGULATION OF ELECTRONIC MEDIA",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohammed Fawzi Amin Alkhader",
+                "capacity": "0",
+                "days": "S, M, W",
+                "time": "14:00 - 16:50",
+                "location": "IOL311"
+            }
+        ]
+    },
+    "MATH1321": {
+        "course_name_ar": "التفاضل والتكامل 2",
+        "course_name_en": "CALCULUS 2",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Rasha Mohammad Amin Shadid",
+                "capacity": "20",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:50",
+                "location": "SCI120"
+            },
+            {
+                "section_type": "Discussion",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "7",
+                "days": "S, M, W, R",
+                "time": "09:00 - 09:50",
+                "location": "SCI114"
+            },
+            {
+                "section_type": "Discussion",
+                "section_number": "2",
+                "instructor": "",
+                "capacity": "11",
+                "days": "M, T, W, R",
+                "time": "13:00 - 13:50",
+                "location": "SCI214"
+            },
+            {
+                "section_type": "Discussion",
+                "section_number": "3",
+                "instructor": "",
+                "capacity": "2",
+                "days": "M, T, W, R",
+                "time": "14:00 - 14:50",
+                "location": "SCI214"
+            },
+            {
+                "section_type": "Discussion",
+                "section_number": "4",
+                "instructor": "Maram Z. M. Almahariq",
+                "capacity": "0",
+                "days": "M, T, W, R",
+                "time": "12:00 - 12:50",
+                "location": "SCI214"
+            }
+        ]
+    },
+    "MATH1351": {
+        "course_name_ar": "رياضيات ما قبل التفاضل والتكامل",
+        "course_name_en": "PRECALCULUS",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Amer Rida Hasan Ja'Far",
+                "capacity": "2",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "SCI115"
+            }
+        ]
+    },
+    "MATH1411": {
+        "course_name_ar": "التفاضل والتكامل 1",
+        "course_name_en": "CALCULUS 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Maram Z. M. Almahariq",
+                "capacity": "5",
+                "days": "S, M, T, W, RT, R",
+                "time": "10:00 - 11:5014:00 - 15:20",
+                "location": "SCI216SCI216"
+            }
+        ]
+    },
+    "MATH1431": {
+        "course_name_ar": "التفاضل والتكامل للعلوم الصحية",
+        "course_name_en": "CALCULUS FOR HEALTH SCIENCES",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Rasha Mohammad Amin Shadid",
+                "capacity": "1",
+                "days": "S, M, T, W, RS, W",
+                "time": "08:00 - 09:5014:00 - 15:20",
+                "location": "SCI113SCI113"
+            }
+        ]
+    },
+    "MATH234": {
+        "course_name_ar": "مقدمة في الجبر الخطي",
+        "course_name_en": "INTRODUCTION TO LINEAR ALGEBRA",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohammad Ali Deib Saleh",
+                "capacity": "19",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "SCI215"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Mohammad Ali Deib Saleh",
+                "capacity": "28",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "SCI215"
+            }
+        ]
+    },
+    "MATH331": {
+        "course_name_ar": "المعادلات التفاضلية العادية",
+        "course_name_en": "ORDINARY DIFFERENTIAL EQUATIONS",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Ala Ata Abdelhady Talahmeh",
+                "capacity": "52",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "SCI214"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Ala Ata Abdelhady Talahmeh",
+                "capacity": "47",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "SCI216"
+            }
+        ]
+    },
+    "MDIA438": {
+        "course_name_ar": "هاشتاج فلسطين",
+        "course_name_en": "Palestine Hashtag",
+        "study_language": "Study Language:",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Nasser Aldden J. K. Khasib",
+                "capacity": "0",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "MDJO138": {
+        "course_name_ar": "قوانين وأخلاقيات الإعلام",
+        "course_name_en": "MEDIA LAWS AND ETHICS",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Saleh Badawi Audeh Allah Masharqeh",
+                "capacity": "2",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "Masrouji023"
+            }
+        ]
+    },
+    "MDJO333": {
+        "course_name_ar": "القصة الصحفية",
+        "course_name_en": "FEATURE STORY",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Walid Omar Awad Shurafa",
+                "capacity": "1",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "PNH401"
+            }
+        ]
+    },
+    "MDJO336": {
+        "course_name_ar": "تصوير صحفي متقدم",
+        "course_name_en": "ADVANCED PHOTOJOURNALISM",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Belal A. S. Doufesh",
+                "capacity": "5",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:20",
+                "location": "Masrouji016"
+            },
+            {
+                "section_type": "Lab",
+                "section_number": "1",
+                "instructor": "Belal A. S. Doufesh",
+                "capacity": "5",
+                "days": "M, T, W",
+                "time": "14:00 - 16:50",
+                "location": "Masrouji111"
+            }
+        ]
+    },
+    "MDJO4120": {
+        "course_name_ar": "تدريب عملي",
+        "course_name_en": "PRACTICAL TRAINING",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Nasser Aldden J. K. Khasib",
+                "capacity": "10",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "MDJO439": {
+        "course_name_ar": "موضوع خاص: مونتاج الفيديو - المتقدم",
+        "course_name_en": "SP.TOP: ADVANCED VIDEO EDITING",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Belal A. S. Doufesh",
+                "capacity": "3",
+                "days": "S, M, T, W, R",
+                "time": "09:30 - 10:50",
+                "location": "Masrouji016"
+            },
+            {
+                "section_type": "Lab",
+                "section_number": "1",
+                "instructor": "Belal A. S. Doufesh",
+                "capacity": "3",
+                "days": "M, T, W",
+                "time": "11:00 - 13:50",
+                "location": "Masrouji111"
+            }
+        ]
+    },
+    "MKET130": {
+        "course_name_ar": "مبادىء التسويق 1",
+        "course_name_en": "PRINCIPLES OF MARKETING 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Suzan Jamal Mousa Shkukani",
+                "capacity": "47",
+                "days": "S, M, T, W, R",
+                "time": "14:00 - 15:50",
+                "location": "O.Abdulhadi051"
+            }
+        ]
+    },
+    "MKET230": {
+        "course_name_ar": "مبادىء التسويق 2",
+        "course_name_en": "PRINCIPLES OF MARKETING 2",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Suzan Jamal Mousa Shkukani",
+                "capacity": "20",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "Aggad225"
+            }
+        ]
+    },
+    "MPAS7345": {
+        "course_name_ar": "(LED) موضوع خاص: التنمية الاقتصادية المحلية",
+        "course_name_en": "SP.TOP: LOCAL ECONOMIC DEVELOPMENT",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Samia Mahmoud Ahmad Al-Botmeh",
+                "capacity": "0",
+                "days": "S, M, W",
+                "time": "14:00 - 16:50",
+                "location": "ALSADIK204"
+            }
+        ]
+    },
+    "NURS130": {
+        "course_name_ar": "أساسيات علم التشريح ووظائف الأعضاء 1",
+        "course_name_en": "HUMAN ANATOMY AND PHYSIOLOGY 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Ahmed A. R. Twam",
+                "capacity": "3",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "PNH105"
+            }
+        ]
+    },
+    "NURS222": {
+        "course_name_ar": "الاسعاف الاولي",
+        "course_name_en": "FIRST AID",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mutaz Mohammed Mohammed Jamil Dredei",
+                "capacity": "18",
+                "days": "S, M, T, W, R",
+                "time": "09:30 - 10:50",
+                "location": "PNH104"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Hatem Khalaf Mohammed Idais Manasrah",
+                "capacity": "13",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:20",
+                "location": "PNH104"
+            }
+        ]
+    },
+    "NURS3370": {
+        "course_name_ar": "تدريب ميداني 1",
+        "course_name_en": "REFLECTIVE PRACTICE 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Ibtisam Shaqour Mohammad Shawer",
+                "capacity": "6",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Ibtisam Shaqour Mohammad Shawer",
+                "capacity": "0",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "NURS4471": {
+        "course_name_ar": "تدريب ميداني 2",
+        "course_name_en": "REFLECTIVE PRACTICE 2",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Khalid Samer Ahmad Yaseen",
+                "capacity": "6",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Khalid Samer Ahmad Yaseen",
+                "capacity": "0",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "NUTD4200": {
+        "course_name_ar": "التدريب العملي 1",
+        "course_name_en": "PRACTICUM 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "3",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "",
+                "capacity": "1",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "PASP333": {
+        "course_name_ar": "القضية الفلسطينية 1",
+        "course_name_en": "PALESTINIAN QUESTION 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Sa'D Fathi Said Nimer",
+                "capacity": "0",
+                "days": "M, W",
+                "time": "14:00 - 16:50",
+                "location": "Bahrain201"
+            }
+        ]
+    },
+    "PHAR243": {
+        "course_name_ar": "الفسيولوجيا البشرية وعلم التشريح 2",
+        "course_name_en": "HUMAN PHYSIOLOGY AND ANATOMY 2",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Bader Nael Abdaljaleel Remawi",
+                "capacity": "2",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "PNH201"
+            },
+            {
+                "section_type": "Lab",
+                "section_number": "1",
+                "instructor": "Israr Nizar Mohammad Sabri",
+                "capacity": "2",
+                "days": "M, T, W",
+                "time": "11:00 - 13:50",
+                "location": "PNH126"
+            }
+        ]
+    },
+    "PHAR3202": {
+        "course_name_ar": "التدريب العملي الصيدلاني 1",
+        "course_name_en": "PRACTICAL PHARMACIST TRAINING 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Ruba N. M. Shaheen",
+                "capacity": "13",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Ruba N. M. Shaheen",
+                "capacity": "2",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "3",
+                "instructor": "Mohammed I. A. Enaia",
+                "capacity": "25",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "PHAR4101": {
+        "course_name_ar": "التدريب العملي في صيدليات المستشفى",
+        "course_name_en": "HOSPITAL PHARMACY TRAINING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohammed I. A. Enaia",
+                "capacity": "23",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Raghad M. A. Abushamma",
+                "capacity": "2",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "3",
+                "instructor": "Raghad M. A. Abushamma",
+                "capacity": "0",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "PHAR641": {
+        "course_name_ar": "تدريب سريري 1",
+        "course_name_en": "CLINICAL CLERKSHIP 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Raed Mohammad Yousef Madia",
+                "capacity": "4",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "PHAR647": {
+        "course_name_ar": "تدريب سريري 7",
+        "course_name_en": "CLINICAL CLERKSHIP 7",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Alisse I. A. Nasser",
+                "capacity": "1",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "PHAR649": {
+        "course_name_ar": "تدريب سريري 9",
+        "course_name_en": "CLINICAL CLERKSHIP 9",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Malak Ahmad Muhmmad Hamed",
+                "capacity": "3",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "PHED120": {
+        "course_name_ar": "التربية الرياضية",
+        "course_name_en": "PHYSICAL EDUCATION",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Rafi Hussien Mahmoud Asfour",
+                "capacity": "1",
+                "days": "S, M, T, W, R",
+                "time": "14:00 - 15:20",
+                "location": "Bamieh101"
+            }
+        ]
+    },
+    "PHED122": {
+        "course_name_ar": "كرة القدم 1",
+        "course_name_en": "SOCCER 1",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Khaled Ali Mahmoud Mallouh",
+                "capacity": "0",
+                "days": "S, M, T, W, R",
+                "time": "09:30 - 10:50",
+                "location": "N/A"
+            }
+        ]
+    },
+    "PHED1250": {
+        "course_name_ar": "التربية الصحية",
+        "course_name_en": "HEALTH EDUCATION",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mahmoud W. M. Kaied",
+                "capacity": "0",
+                "days": "S, M, T, W, R",
+                "time": "12:30 - 13:50",
+                "location": "Bamieh101"
+            }
+        ]
+    },
+    "PHED223": {
+        "course_name_ar": "كرة السلة 1",
+        "course_name_en": "BASKETBALL 1",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Iyad Abdallh Hassan Yousef",
+                "capacity": "0",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:20",
+                "location": "N/A"
+            }
+        ]
+    },
+    "PHED227": {
+        "course_name_ar": "السباحة 1",
+        "course_name_en": "SWIMMING 1",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Waleed Mohammad Hassan Shaheen",
+                "capacity": "2",
+                "days": "S, M, T, W, R",
+                "time": "12:30 - 13:50",
+                "location": "N/A"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Reem Mustafa Mohammad Hamad",
+                "capacity": "4",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:20",
+                "location": "N/A"
+            }
+        ]
+    },
+    "PHED321": {
+        "course_name_ar": "ألعاب القوى 2",
+        "course_name_en": "ATHLETICS 2",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Tareq Gazi Ayesh Raja",
+                "capacity": "0",
+                "days": "S, M, T, W, R",
+                "time": "12:30 - 13:50",
+                "location": "N/A"
+            }
+        ]
+    },
+    "PHED323": {
+        "course_name_ar": "كرة السلة 2",
+        "course_name_en": "BASKETBALL 2",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Iyad Abdallh Hassan Yousef",
+                "capacity": "0",
+                "days": "S, M, T, W, R",
+                "time": "09:30 - 10:50",
+                "location": "N/A"
+            }
+        ]
+    },
+    "PHED326": {
+        "course_name_ar": "الجمباز 2",
+        "course_name_en": "GYMNASTICS 2",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mahmoud W. M. Kaied",
+                "capacity": "1",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:20",
+                "location": "N/A"
+            }
+        ]
+    },
+    "PHED327": {
+        "course_name_ar": "السباحة 2",
+        "course_name_en": "SWIMMING 2",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Waleed Mohammad Hassan Shaheen",
+                "capacity": "2",
+                "days": "S, M, T, W, R",
+                "time": "14:00 - 15:20",
+                "location": "N/A"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Reem Mustafa Mohammad Hamad",
+                "capacity": "7",
+                "days": "S, M, T, W, R",
+                "time": "09:30 - 10:50",
+                "location": "N/A"
+            }
+        ]
+    },
+    "PHED425": {
+        "course_name_ar": "التنظيم والإدارة في التربية الرياضية",
+        "course_name_en": "ADMINISTRATION AND ORGANIZATION IN PHYSICAL EDUCATION",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Khaled Ali Mahmoud Mallouh",
+                "capacity": "8",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:20",
+                "location": "Bamieh101"
+            }
+        ]
+    },
+    "PHED4270": {
+        "course_name_ar": "الانشطة الترويحية والالعاب الصغيرة",
+        "course_name_en": "RECREATIONAL ACTIVITIES AND SMALL GAMES",
+        "study_language": "Study Language:",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Tareq Gazi Ayesh Raja",
+                "capacity": "6",
+                "days": "S, M, T, W, R",
+                "time": "14:00 - 15:20",
+                "location": "Bamieh103"
+            }
+        ]
+    },
+    "PHED434": {
+        "course_name_ar": "كرة الطائرة 3",
+        "course_name_en": "VOLLEYBALL 3",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Rafi Hussien Mahmoud Asfour",
+                "capacity": "7",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "N/A"
+            }
+        ]
+    },
+    "PHED7230": {
+        "course_name_ar": "الإعداد المهني في المجال الرياضي",
+        "course_name_en": "PROFESSIONAL PREPARATION IN THE FIELD OF SPORTS",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mahmoud W. M. Kaied",
+                "capacity": "1",
+                "days": "S, M, T",
+                "time": "14:00 - 15:50",
+                "location": "Bamieh206"
+            }
+        ]
+    },
+    "PHYS111": {
+        "course_name_ar": "مختبر الفيزياء العامة 1",
+        "course_name_en": "GENERAL PHYSICS LAB 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "3",
+                "days": "M, T, W",
+                "time": "11:00 - 13:50",
+                "location": "SCI259"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "",
+                "capacity": "2",
+                "days": "M, T, W",
+                "time": "14:00 - 16:50",
+                "location": "SCI259"
+            }
+        ]
+    },
+    "PHYS112": {
+        "course_name_ar": "مختبر الفيزياء العامة 2",
+        "course_name_en": "GENERAL PHYSICS LAB 2",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Wael Ishaq Hasan Karain",
+                "capacity": "11",
+                "days": "M, T, W",
+                "time": "08:00 - 10:50",
+                "location": "SCI253"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Wael Ishaq Hasan Karain",
+                "capacity": "18",
+                "days": "M, T, W",
+                "time": "11:00 - 13:50",
+                "location": "SCI253"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "3",
+                "instructor": "Sarah H. M. Najar",
+                "capacity": "17",
+                "days": "M, T, W",
+                "time": "14:00 - 16:50",
+                "location": "SCI253"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "4",
+                "instructor": "Sarah H. M. Najar",
+                "capacity": "4",
+                "days": "M, T, W",
+                "time": "08:00 - 10:50",
+                "location": "SCI263"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "5",
+                "instructor": "Isma'El Mohummad Daoud Badran",
+                "capacity": "8",
+                "days": "M, T, W",
+                "time": "11:00 - 13:50",
+                "location": "SCI263"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "6",
+                "instructor": "",
+                "capacity": "6",
+                "days": "M, T, W",
+                "time": "14:00 - 16:50",
+                "location": "SCI263"
+            }
+        ]
+    },
+    "PHYS132": {
+        "course_name_ar": "الفيزياء العامة 2",
+        "course_name_en": "GENERAL PHYSICS 2",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Abdalaziz A. A. Shawabka",
+                "capacity": "64",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:20",
+                "location": "SCI120"
+            },
+            {
+                "section_type": "Discussion",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "24",
+                "days": "M, T, W, R",
+                "time": "10:00 - 10:50",
+                "location": "SCI213"
+            },
+            {
+                "section_type": "Discussion",
+                "section_number": "2",
+                "instructor": "",
+                "capacity": "4",
+                "days": "M, T, W, R",
+                "time": "13:00 - 13:50",
+                "location": "SCI213"
+            },
+            {
+                "section_type": "Discussion",
+                "section_number": "3",
+                "instructor": "Abdalaziz A. A. Shawabka",
+                "capacity": "27",
+                "days": "M, T, W, R",
+                "time": "11:00 - 11:50",
+                "location": "SCI215"
+            },
+            {
+                "section_type": "Discussion",
+                "section_number": "4",
+                "instructor": "Sarah H. M. Najar",
+                "capacity": "9",
+                "days": "M, T, W, R",
+                "time": "12:00 - 12:50",
+                "location": "SCI213"
+            }
+        ]
+    },
+    "PHYS1331": {
+        "course_name_ar": "الفيزياء العامة للصيدلة",
+        "course_name_en": "GENERAL PHYSICS FOR PHARMACY",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "",
+                "capacity": "20",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "S.Abdulhadi380"
+            }
+        ]
+    },
+    "PHYS141": {
+        "course_name_ar": "الفيزياء العامة 1",
+        "course_name_en": "GENERAL PHYSICS 1",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Isma'El Mohummad Daoud Badran",
+                "capacity": "2",
+                "days": "S, M, T, W, RM, W",
+                "time": "08:00 - 09:5014:00 - 15:20",
+                "location": "SCI216SCI216"
+            }
+        ]
+    },
+    "POLS231": {
+        "course_name_ar": "مقدمة في العلوم السياسية",
+        "course_name_en": "INTRODUCTION TO POLITICAL SCIENCE",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Imad Hassan Musa Ghayathah",
+                "capacity": "2",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "Bamieh002"
+            }
+        ]
+    },
+    "POLS234": {
+        "course_name_ar": "مقدمة في العلاقات الدولية",
+        "course_name_en": "INTRODUCTION TO INTERNATIONAL RELATIONS",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Imad Hassan Musa Ghayathah",
+                "capacity": "6",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "ALSADIK202"
+            }
+        ]
+    },
+    "POLS236": {
+        "course_name_ar": "النظام السياسي الفلسطيني",
+        "course_name_en": "PALESTINIAN POLITICAL SYSTEM",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Hani Mahmoud Abed Mousa",
+                "capacity": "29",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "ALSADIK406"
+            }
+        ]
+    },
+    "POLS333": {
+        "course_name_ar": "القضية الفلسطينية 1",
+        "course_name_en": "PALESTINIAN QUESTION 1",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Hani Mahmoud Abed Mousa",
+                "capacity": "1",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "ALSADIK406"
+            }
+        ]
+    },
+    "PRLW7353": {
+        "course_name_ar": "قانون حماية المستهلك",
+        "course_name_en": "COMSUMER PROTECTION LAW",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohammed Ibrahim Mohammed Alqaisi",
+                "capacity": "2",
+                "days": "M, T, W",
+                "time": "14:00 - 16:50",
+                "location": "ALSADIK304"
+            }
+        ]
+    },
+    "PSYC231": {
+        "course_name_ar": "مدخل الى علم النفس",
+        "course_name_en": "INTRODUCTION TO PSYCHOLOGY",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Maurice F. B. Backleh",
+                "capacity": "5",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "A.Shaheen162"
+            }
+        ]
+    },
+    "PSYC331": {
+        "course_name_ar": "تاريخ علم النفس وانظمته",
+        "course_name_en": "HISTORY AND SYSTEMS OF PSYCHOLOGY",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Fardous Mohammad Hussien Salameh",
+                "capacity": "7",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "Bahrain221"
+            }
+        ]
+    },
+    "PSYC431": {
+        "course_name_ar": "علم نفس الشخصية",
+        "course_name_en": "PSYCHOLOGY OF PERSONALITY",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Maurice F. B. Backleh",
+                "capacity": "10",
+                "days": "S, M, T, W, R",
+                "time": "11:00 - 12:50",
+                "location": "A.Shaheen256"
+            }
+        ]
+    },
+    "PSYC436": {
+        "course_name_ar": "علم نفس الشيخوخة",
+        "course_name_en": "PSYCHOLOGY OF THE AGED",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Fardous Mohammad Hussien Salameh",
+                "capacity": "9",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "Bahrain221"
+            }
+        ]
+    },
+    "PUBA135": {
+        "course_name_ar": "أساليب البحث في الإدارة العامة",
+        "course_name_en": "RESEARCH METHODS IN PUBLIC ADMINISTRATION",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Ismail Salama Ismail Iriqat",
+                "capacity": "6",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "ALSADIK307"
+            }
+        ]
+    },
+    "PUBA331": {
+        "course_name_ar": "الإدارة الاستراتيجية",
+        "course_name_en": "STRATEGIC MANAGEMENT",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Jehad Yousif Abd-Alrahman Alayasa",
+                "capacity": "13",
+                "days": "S, M, T, W, R",
+                "time": "08:00 - 09:50",
+                "location": "ALSADIK103"
+            }
+        ]
+    },
+    "PUBA332": {
+        "course_name_ar": "إدارة الموارد البشرية في القطاع العام",
+        "course_name_en": "HUMAN RESOURCES MANAGEMENT",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+                "capacity": "16",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "ALSADIK103"
+            }
+        ]
+    },
+    "PUBA334": {
+        "course_name_ar": "السلوك التنظيمي",
+        "course_name_en": "ADMINISTRATIVE/ORGANIZATIONAL BEHAVIOR",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Nour Hatem Ahmad Mattour",
+                "capacity": "16",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "ALSADIK203"
+            }
+        ]
+    },
+    "PUBA3391": {
+        "course_name_ar": "نصوص وقراءات ادارية باللغة الإنجليزية",
+        "course_name_en": "PUBLIC ADMINISTRATION TERMINOLOGY",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohammed Abdel-Qader Mohammed Abu Zayed/Qoud",
+                "capacity": "18",
+                "days": "S, M, T, W, R",
+                "time": "14:00 - 15:50",
+                "location": "ALSADIK202"
+            }
+        ]
+    },
+    "PUBA411": {
+        "course_name_ar": "التدريب العملي",
+        "course_name_en": "INTERNSHIP",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Nour Hatem Ahmad Mattour",
+                "capacity": "2",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "2",
+                "instructor": "Nour Hatem Ahmad Mattour",
+                "capacity": "0",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "3",
+                "instructor": "Mayyada Ismae'L Hasan Badawi",
+                "capacity": "6",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            },
+            {
+                "section_type": "Lecture",
+                "section_number": "4",
+                "instructor": "Mayyada Ismae'L Hasan Badawi",
+                "capacity": "0",
+                "days": "N/A",
+                "time": "N/A",
+                "location": "N/A"
+            }
+        ]
+    },
+    "PUBA432": {
+        "course_name_ar": "إدارة المشاريع العامة",
+        "course_name_en": "PUBLIC PROJECTS MANAGEMENT",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Jehad Yousif Abd-Alrahman Alayasa",
+                "capacity": "33",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "ALSADIK202"
+            }
+        ]
+    },
+    "PUBA437": {
+        "course_name_ar": "التطوير التنظيمي والتنمية الإدارية",
+        "course_name_en": "ORGANIZATIONAL DEVELOPMENT AND ADMINISTRATIVE IMPROVEMENT",
+        "study_language": "Study Language: Arabic",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Ismail Salama Ismail Iriqat",
+                "capacity": "5",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "ALSADIK203"
+            }
+        ]
+    },
+    "STAT2361": {
+        "course_name_ar": "الإحصاء للأعمال والإقتصاد",
+        "course_name_en": "STATISTICS FOR BUSINESS AND ECONOMICS",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mohammad Yousef Hejaze Madiah",
+                "capacity": "20",
+                "days": "S, M, T, W, R",
+                "time": "10:00 - 11:50",
+                "location": "S.Abdulhadi380"
+            }
+        ]
+    },
+    "TRAN331": {
+        "course_name_ar": "تدريبات في الترجمة العامة",
+        "course_name_en": "PRACTICE IN GENERAL TRANSLATION",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Majdi Jehad Ahmad Abu_Zahra",
+                "capacity": "10",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "A.Shaheen002"
+            }
+        ]
+    },
+    "TRAN3410": {
+        "course_name_ar": "مدخل الى الترجمة",
+        "course_name_en": "INTRODUCTION TO TRANSLATION",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+                "capacity": "8",
+                "days": "S, MS, M, T, W, R",
+                "time": "08:00 - 09:2010:00 - 11:50",
+                "location": "A.Shaheen212A.Shaheen212"
+            }
+        ]
+    },
+    "TRAN431": {
+        "course_name_ar": "ترجمة نصوص علمية وفنية",
+        "course_name_en": "TRANSLATION OF TEXTS IN SCIENCES AND TECHNOLOGY",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+                "capacity": "6",
+                "days": "S, M, T, W, R",
+                "time": "14:00 - 15:50",
+                "location": "A.Shaheen002"
+            }
+        ]
+    },
+    "TRAN433": {
+        "course_name_ar": "ترجمة شفوية",
+        "course_name_en": "INTERPRETING",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Mahmoud Ahmad Mohammad Abdel Fattah - Ismail",
+                "capacity": "17",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "A.Shaheen212"
+            }
+        ]
+    },
+    "TRAN435": {
+        "course_name_ar": "ترجمة نصوص قانونية",
+        "course_name_en": "TRANSLATION OF LEGAL TEXTS",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Yaseen Nour Al_Din Mohammad Al_Sayyed",
+                "capacity": "3",
+                "days": "S, M, T, W, R",
+                "time": "12:00 - 13:50",
+                "location": "Bamieh103"
+            }
+        ]
+    },
+    "TRAN436": {
+        "course_name_ar": "ترجمة نصوص دبلوماسية وسياسية",
+        "course_name_en": "TRANSLATION OF DIPLOMATIC AND POLITICAL TEXTS",
+        "study_language": "Study Language: English",
+        "sections": [
+            {
+                "section_type": "Lecture",
+                "section_number": "1",
+                "instructor": "Majdi Jehad Ahmad Abu_Zahra",
+                "capacity": "19",
+                "days": "S, M, T, W, R",
+                "time": "09:00 - 10:50",
+                "location": "Bamieh104"
+            }
+        ]
+    }
+}
